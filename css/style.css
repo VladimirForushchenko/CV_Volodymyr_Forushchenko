@@ -829,7 +829,7 @@ h3.my-profession {
     flex: 0 0 100%;
     max-width: 100%;
   }
-  .my-profession {
+  h3.my-profession {
     font-size: 20px;
   }
 
